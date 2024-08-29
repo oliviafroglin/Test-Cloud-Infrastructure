@@ -1,2 +1,3 @@
 # Test-Cloud-Infrastructure
-HW for Cloud Infra
+## This is for homework purpose for cloud infra
+## Purpose is to practice github skills
